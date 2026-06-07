@@ -1,4 +1,4 @@
-# Text Classification Lab
+# Text Classification Lab大作业
 
 This project is a text classification experiment based on the 20 Newsgroups dataset. It includes data preprocessing, feature extraction, model training, prediction scripts, and hyperparameter analysis for several classic machine learning classifiers.
 
